@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+flask
+flask-cors
+flask-sqlalchemy
+sqlalchemy
+pymysql
+python-dotenv
+google-genai
+pipecat-ai[tracing]
+lmnr
+opentelemetry-exporter-otlp-proto-grpc
+openai
+pyaudio
